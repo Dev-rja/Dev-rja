@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Arriba
 
-🛠️ I aspire to be an **Associate Data Engineer**, passionate about building data pipelines, optimizing databases, and working with big      data.  
+- I aspire to be an **Associate Data Engineer**, passionate about building data pipelines, optimizing databases, and working with big      data.  
 👀 Interested in **ETL, AWS, and Big Data Technologies**.  
 🌱 Currently learning **SQL and data engineering fundamentals** on [**DataCamp**](https://www.datacamp.com/portfolio/devrjarriba).   
 💡 Looking to collaborate on **data-related projects to sharpen my skills**.  
