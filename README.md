@@ -4,7 +4,7 @@
 - Interested in **ETL, dbt, and Data Pipeline Automation**.
 - Currently learning **SQL and data engineering fundamentals** on [DataCamp](https://www.datacamp.com).
 - Looking to collaborate on **data-related projects to sharpen my skills**.
-- How to reach me: [dev.rjarriba@gmail.com](mailto:dev.rjarriba@gmail.com)
+- How to reach me: [dev.rjarriba@gmail.com](mailto:rodrigo.j.arriba@gmail.com)
 
 
 ## Technologies
